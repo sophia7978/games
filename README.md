@@ -11,8 +11,6 @@ In the ever-changing SEO world, it may seem like an endless game of whack-a-mole
 **Authoritativeness:** Gaining respect from colleagues and business titans is essential to becoming an authority in your field. It can include endorsements from respectable publications, backlinks from excellent websites, and favorable client feedback.
 **Credibility:** Establishing credibility necessitates openness, moral behavior, and a dedication to user privacy. It entails ensuring your website is trustworthy and safe, revealing potential conflicts of interest, and giving clear contact information.
 
-![unnamed (2)](https://github.com/sophia7978/Media-Marketing/assets/157782265/58df6d55-1b27-490f-a3fd-c31d7672feac)
-
 [Top 7 SEO Strategies on SERPS](https://blog.hubspot.com/website/web-traffic-analytics-report)
 
 ## The Impact of EEAT on SEO:
